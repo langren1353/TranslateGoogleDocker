@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="install_cert">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/install_cert.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
